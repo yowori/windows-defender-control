@@ -1,5 +1,7 @@
 # Windows Defender Control - Manage your Windows Defender with 1 batch file 🛠️
 
+# Why should it be disabled? ❓
+Windows Defender unfortunately uses too much CPU and I/O resources. Moreover, some of its "security" measures are undesirable and can endanger the user's privacy. Slowing down overall computer performance, deleting suspicious files without consent, compromising privacy by automatically sending malware samples to Microsoft.
 
 # How to ❓ 
 > [!NOTE]
