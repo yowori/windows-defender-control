@@ -1,5 +1,5 @@
 # Windows Defender Control 🛠️
-<a href='https://github.com/dakotepc' target='_blank'><img height='36' style='border:0px;height:36px;' src='https://i.postimg.cc/CxKSSqs5/LiEwRu1.png' border='0' alt='My github' /></a>
+<a href='https://github.com/dakotepc' target='_blank'><img height='36' style='border:0px;height:36px;' src='https://i.postimg.cc/ncc6Dtjw/123.png' border='0' alt='My github' /></a>
 <a href='https://ko-fi.com/dakotepc' target='_blank'><img height='36' style='border:0px;height:36px;' src='https://storage.ko-fi.com/cdn/kofi5.png?v=3' border='0' alt='Buy Me a Coffee at ko-fi.com' /></a>
 ## Why should it be disabled? ❓
 Windows Defender unfortunately uses too much CPU and I/O resources. Moreover, some of its "security" measures are undesirable and can endanger the user's privacy. Slowing down overall computer performance, deleting suspicious files without consent, compromising privacy by automatically sending malware samples to Microsoft.
