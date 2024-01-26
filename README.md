@@ -1,2 +1,1 @@
-# windows-defender-control
-Manage Windows Defender in a few clicks (Windows 10/11).
+# Windows Defender Control - Manage your Windows Defender with 1 batch file 🛠️
